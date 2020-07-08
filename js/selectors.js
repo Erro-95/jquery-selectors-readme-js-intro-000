@@ -1,4 +1,4 @@
-$(document).ready(function(){
+// $(document).ready(function(){
 
 function paragraphSelector(){
   return $('p')
@@ -20,4 +20,4 @@ function firstListItem(){
   return $('ul#pic-list li:first-child')
 }
 
-})
+//})
